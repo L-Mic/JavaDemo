@@ -1,4 +1,3 @@
-package com.company;
 import java.util.Scanner;
 
 public class Main {
@@ -11,7 +10,7 @@ public class Main {
         //area(5.5);
         //forAsciiToChar(69);
         //compare("ABCD","BDC");
-        //tongji();
+        tongji();
         }
     //计算六边形面积
     public static void area(double len){
