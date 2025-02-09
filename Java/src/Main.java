@@ -69,7 +69,7 @@ public class Main {
         int answer = input.nextInt();
         System.out.println("Your answer is " + (answer==(num1 + num2)));
     }
-    //求一个整数各位数的和
+    //求一个整数各位数的和，，
     public static void sum(){
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();
@@ -90,4 +90,4 @@ public class Main {
     }
 
 }
-    //测试
+    //
