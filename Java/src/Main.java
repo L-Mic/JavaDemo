@@ -7,10 +7,10 @@ public class Main {
         //sum();
         //additionQuit();
         //compare(0.5);
-        //area(5.5);
+        area(5.5);
         //forAsciiToChar(69);
         //compare("ABCD","BDC");
-        tongji();
+        //tongji();
         }
     //计算六边形面积
     public static void area(double len){
@@ -69,7 +69,7 @@ public class Main {
         int answer = input.nextInt();
         System.out.println("Your answer is " + (answer==(num1 + num2)));
     }
-    //求一个整数各位数的和，，
+    //求一个整数各位数的和
     public static void sum(){
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();
